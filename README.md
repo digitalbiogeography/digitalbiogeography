@@ -1,8 +1,3 @@
-<head>
-   <link rel="shortcut icon" type="image/jpg" href="plant.jpg">
-
-</head>
-
 # GEOG 4--/5--
 
 Tuesdays and Thursdays, 4:00 - 5:15 pm
@@ -12,6 +7,8 @@ Tuesdays and Thursdays, 4:00 - 5:15 pm
 ## [School of Geography and Development](https://geography.arizona.edu/)
 
 Instructor: [**Alex Pakalniskis**](https://geography.arizona.edu/user/alex-pakalniskis)
+
+![Plateau Segmentation](https://nbviewer.jupyter.org/github/digitalbiogeography/digitalbiogeography.github.io/blob/master/plant.jpg?raw=true)
 
 # Syllabus
 
