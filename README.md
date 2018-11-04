@@ -4,10 +4,16 @@
 
 ## [School of Geography and Development](https://geography.arizona.edu/)
 
-Instructor: **Alex Pakalniskis**
+Instructor: [**Alex Pakalniskis**](https://geography.arizona.edu/user/alex-pakalniskis)
 
 # Syllabus
 
+## Required Materials
+
+* Access to a computer with an internet browser (Google Chrome of Mozilla Firefox)
+* Access to an internet connection (wired or wireless)
+* A University of Arizona-managed Google Account
+* A GitHub account
 
 ## Readings
 
