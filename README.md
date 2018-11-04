@@ -1,3 +1,8 @@
+<head>
+   <link rel="shortcut icon" type="image/jpg" href="plant.jpg">
+
+</head>
+
 # GEOG 4--/5--
 
 Tuesdays and Thursdays, 4:00 - 5:15 pm
