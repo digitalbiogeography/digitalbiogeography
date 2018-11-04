@@ -1,2 +1,5 @@
-# Digital Biogeography
-## [Course Wiki](https://github.com/digitalbiogeography/digitalbiogeography.github.io/wiki)
+# GEOG 4/5--: Digital Biogeography
+
+Syllabus
+
+
