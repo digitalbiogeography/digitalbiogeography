@@ -18,9 +18,10 @@ Contact: pakalniskis@email.arizona.edu
 
 Activity | Portion of Final Grade
 ---|---
-Participation | 40%
-Final Project | 40%
 Attendance | 20%
+Participation | 40%
+Final Group Project | 40%
+
 
 ## Required Materials
 
