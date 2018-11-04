@@ -14,11 +14,11 @@ Instructor: [**Alex Pakalniskis**](https://geography.arizona.edu/user/alex-pakal
 
 ## Required Materials
 
-* Access to a computer with an internet browser (Google Chrome of Mozilla Firefox)
+* Access to a computer with an internet browser ([Google Chrome](https://www.google.com/chrome/) of [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/))
 
-* Access to an internet connection (wired or wireless)
+* Access to an [internet connection](https://it.arizona.edu/service-category/wifi-and-networks) (wired or wireless)
 
-* A University of Arizona-managed Google Account
+* A University of Arizona-managed [Google Account](https://it.arizona.edu/service/google-g-suite-education)
 
 * Water (hydration is very important)
 
