@@ -13,4 +13,4 @@ Readings
 
 * [Blaschke, Thomas, Geoffrey J. Hay, Maggi Kelly, Stefan Lang, Peter Hofmann, Elisabeth Addink, Raul Queiroz Feitosa et al. "Geographic object-based image analysis–towards a new paradigm." ISPRS journal of photogrammetry and remote sensing 87 (2014): 180-191.](https://www.sciencedirect.com/science/article/pii/S0924271613002220)
 
-* [(Csillik, Ovidiu. "Fast segmentation and classification of very high resolution remote sensing data using SLIC superpixels." Remote Sensing 9, no. 3 (2017): 243.)](https://www.mdpi.com/2072-4292/9/3/243/htm)
+* [Csillik, Ovidiu. "Fast segmentation and classification of very high resolution remote sensing data using SLIC superpixels." Remote Sensing 9, no. 3 (2017): 243.](https://www.mdpi.com/2072-4292/9/3/243/htm)
