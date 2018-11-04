@@ -13,8 +13,11 @@ Instructor: [**Alex Pakalniskis**](https://geography.arizona.edu/user/alex-pakal
 ## Required Materials
 
 * Access to a computer with an internet browser (Google Chrome of Mozilla Firefox)
+
 * Access to an internet connection (wired or wireless)
+
 * A University of Arizona-managed Google Account
+
 * Water (hydration is very important)
 
 ## Readings
