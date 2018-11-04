@@ -4,6 +4,8 @@
 
 ## [School of Geography and Development](https://geography.arizona.edu/)
 
+Instructor: **Alex Pakalniskis**
+
 # Syllabus
 
 
