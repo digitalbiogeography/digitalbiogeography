@@ -1,5 +1,7 @@
 # GEOG 4--/5--
 
+Tuesdays and Thursdays, 4:00 - 5:15 pm
+
 ## [University of Arizona](https://www.arizona.edu/)
 
 ## [School of Geography and Development](https://geography.arizona.edu/)
@@ -13,7 +15,7 @@ Instructor: [**Alex Pakalniskis**](https://geography.arizona.edu/user/alex-pakal
 * Access to a computer with an internet browser (Google Chrome of Mozilla Firefox)
 * Access to an internet connection (wired or wireless)
 * A University of Arizona-managed Google Account
-* A GitHub account
+* Water (hydration is very important)
 
 ## Readings
 
