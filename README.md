@@ -8,9 +8,19 @@ Tuesdays and Thursdays, 4:00 - 5:15 pm
 
 Instructor: [**Alex Pakalniskis**](https://geography.arizona.edu/user/alex-pakalniskis)
 
+Contact: pakalniskis@email.arizona.edu
+
 ![Plateau Segmentation](https://nbviewer.jupyter.org/github/digitalbiogeography/digitalbiogeography.github.io/blob/master/plant.jpg?raw=true)
 
 # Syllabus
+
+## Grading
+
+Activity | Portion of Final Grade
+---|---
+Participation | 40%
+Final Project | 40%
+Attendance | 20%
 
 ## Required Materials
 
